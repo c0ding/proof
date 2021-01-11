@@ -1,19 +1,6 @@
-# substrate-api-client Test Node
-
-This substrate node is used to test the [substrate-api-client](https://github.com/scs/substrate-api-client).
-
-Follow these steps to prepare a local Substrate development environment :hammer_and_wrench:
-
-### Setup
-
-Setup instructions can be found at the
-[Substrate Developer Hub](https://substrate.dev/docs/en/knowledgebase/getting-started).
+# substrate-proof
 
 ### Build
-
-Once the development environment is set up, build the node template. This command will build the
-[Wasm](https://substrate.dev/docs/en/knowledgebase/advanced/executor#wasm-execution) and
-[native](https://substrate.dev/docs/en/knowledgebase/advanced/executor#native-execution) code:
 
 ```bash
 cargo build --release
